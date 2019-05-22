@@ -1,0 +1,6 @@
+install.packages('nlme')
+install.packages('CVXR')
+install.packages('sommer')
+install.packages('pracma')
+install.packages('devtools')
+devtools::install_github("fdslrm/R-package")
